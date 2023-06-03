@@ -1,6 +1,4 @@
-P2P Chat
-
-详细内容请看README.docx
+P2P Chat（有关P2P Chat的详细内容请看README.docx）
 
 介绍
 
